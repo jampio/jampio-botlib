@@ -11,9 +11,8 @@
  * $Date: 4/13/01 4:45p $
  *
  *****************************************************************************/
-#include <jampio/shared/shared.h>
-#include <jampio/shared/botlib.h>
 #include <jampio/shared/gametype.h>
+#include "botlib.h"
 #include "l_utils.h"
 #include "l_libvar.h"
 #include "l_memory.h"

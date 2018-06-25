@@ -11,7 +11,7 @@
  * $Date: 10/05/99 3:42p $
  *
  *****************************************************************************/
-#include <jampio/shared/botlib.h>
+#include "botlib.h"
 
 //#define DEBUG			//debug code
 #define RANDOMIZE		//randomize bot behaviour

@@ -11,8 +11,6 @@
  * $Date: 3/08/00 11:28a $
  *
  *****************************************************************************/
-#include <jampio/shared/shared.h>
-#include <jampio/shared/botlib.h>
 #include "be_interface.h"			//for botimport.Print
 #include "l_libvar.h"
 

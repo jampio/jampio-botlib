@@ -32,8 +32,6 @@ typedef enum {qfalse, qtrue}	qboolean;
 
 #ifdef BOTLIB
 //include files for usage in the bot library
-#include <jampio/shared/shared.h>
-#include <jampio/shared/botlib.h>
 #include "be_interface.h"
 #include "l_script.h"
 #include "l_memory.h"

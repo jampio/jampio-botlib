@@ -11,8 +11,7 @@
  * $Date: 11/28/00 7:52a $
  *
  *****************************************************************************/
-#include <jampio/shared/shared.h>
-#include <jampio/shared/botlib.h>
+#include "botlib.h"
 #include "l_memory.h"
 #include "l_libvar.h"
 #include "l_utils.h"

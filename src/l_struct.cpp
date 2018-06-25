@@ -13,8 +13,7 @@
  *****************************************************************************/
 
 #ifdef BOTLIB
-#include <jampio/shared/shared.h>
-#include <jampio/shared/botlib.h>				//for the include of be_interface.h
+#include "botlib.h"				//for the include of be_interface.h
 #include "l_script.h"
 #include "l_precomp.h"
 #include "l_struct.h"

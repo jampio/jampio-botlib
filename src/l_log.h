@@ -11,6 +11,7 @@
  * $Date: 10/05/99 3:42p $
  *
  *****************************************************************************/
+#include <jampio/shared/shared.h>
 
 //open a log file
 void Log_Open(const char *filename);

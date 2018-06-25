@@ -37,8 +37,6 @@ typedef enum {qfalse, qtrue}	qboolean;
 #endif //SCREWUP
 
 #ifdef BOTLIB
-#include <jampio/shared/shared.h>
-#include <jampio/shared/botlib.h>
 #include "be_interface.h"
 #include "l_memory.h"
 #include "l_script.h"
